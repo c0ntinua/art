@@ -1,0 +1,26 @@
+label {
+    /* font-family: 'Xanh Mono', monospace; */
+    font-family: 'Nova Mono', monospace;
+}
+button {
+    /* font-family: 'Xanh Mono', monospace; */
+    font-family: 'Nova Mono', monospace;
+}
+body {
+    background-color: rgb(191, 194, 195);
+}
+
+a {
+    font-family: 'Quintessential', cursive;
+    font-size: 50px;
+
+}
+el {
+    font-family: 'Nova Mono', monospace;
+
+}
+h1 {
+    font-family: 'Quintessential', cursive;
+    font-size: 100px;
+
+}
