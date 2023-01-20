@@ -1,1 +1,1 @@
-This repo is large collection of digital art which I hope to organize soon. While some of it is available here https://sc0tzwei.github.io/art/ , much of it is not yet featured on an html file.
+This repo is large collection of digital art which I hope to organize soon. While some of it is available here https://sc0tzwei.github.io/art/ , much of it is not yet featured on an html file. Cellular automata art dominates, but neural networks also play a role, as well as a few other mathematical themes. I can say that it is all abstract/mathematical. 
