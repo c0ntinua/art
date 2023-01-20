@@ -11,8 +11,8 @@ body {
 }
 
 a {
-    font-family: 'Quintessential', cursive;
-    font-size: 50px;
+    /* font-family: 'Quintessential', cursive; */
+    font-size: 20px;
 
 }
 el {
@@ -21,7 +21,7 @@ el {
 }
 h1 {
     font-family: 'Quintessential', cursive;
-    font-size: 100px;
+    font-size: 30px;
 
 }
 
